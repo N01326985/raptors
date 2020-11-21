@@ -1,21 +1,21 @@
 {
-"student" : "Heet Patel",
+"student" : "vidhi",
 "version" : "1",
 "count" : "3",
 "data" :
   [{
-  "location" : "Balcony Level",
-  "availableSeats" : 25,
+  "Seat type" : "Balcony Level",
+  "availableSeats" : 30,
   "ticketPrice" : 1170.0   
   },
   {
   "location" : "Lower Level",
-  "availableSeats" : 40,
+  "availableSeats" : 12,
   "ticketPrice" : 10434.0 
   },
   {
   "location" : "Court Side",
-  "availableSeats" : 30,
+  "availableSeats" : 50,
   "ticketPrice" : 27777.0 
   }]
 }
