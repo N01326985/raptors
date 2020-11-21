@@ -1,21 +1,18 @@
 {
-"student" : "vidhi",
-"version" : "1",
-"count" : "3",
 "data" :
   [{
-  "Seat type" : "Balcony Level",
-  "availableSeats" : 30,
-  "ticketPrice" : 1170.0   
+  "ticket_type" : "Balcony Level",
+  "ticket_count" : 30,
+  "ticket_price" : 1170.0   
   },
   {
-  "location" : "Lower Level",
-  "availableSeats" : 12,
+  "ticket_type" : "Lower Level",
+  "ticket_count" : 12,
   "ticketPrice" : 10434.0 
   },
   {
-  "location" : "Court Side",
-  "availableSeats" : 50,
-  "ticketPrice" : 27777.0 
+  "ticket_type" : "Court Side",
+  "ticket_count" : 50,
+  "ticket_price" : 27777.0 
   }]
 }
